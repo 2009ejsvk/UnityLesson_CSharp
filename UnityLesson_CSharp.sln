@@ -5,13 +5,25 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_ProgramClass", "UnityLesson_CSharp_ProgramClass\UnityLesson_CSharp_ProgramClass.csproj", "{7BBA09A0-58C4-4025-AD6F-EDD7AD3FCCFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ProgramClass_Dotnet5", "UnityLesson_CSharp_ProgramClass_Dotnet5\UnityLesson_CSharp_ProgramClass_Dotnet5.csproj", "{4741F2A0-E7DC-403A-9941-1E185A0ED955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_ProgramClass_Dotnet5", "UnityLesson_CSharp_ProgramClass_Dotnet5\UnityLesson_CSharp_ProgramClass_Dotnet5.csproj", "{4741F2A0-E7DC-403A-9941-1E185A0ED955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Variable", "UnityLesson_CSharp_Variable\UnityLesson_CSharp_Variable.csproj", "{5BB7EC68-F8B7-4D79-86BA-0824B1652679}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Variable", "UnityLesson_CSharp_Variable\UnityLesson_CSharp_Variable.csproj", "{5BB7EC68-F8B7-4D79-86BA-0824B1652679}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_if", "UnityLesson_CSharp_if\UnityLesson_CSharp_if.csproj", "{4D1358AA-92A8-4E1F-936E-EF0338C7190E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_if", "UnityLesson_CSharp_if\UnityLesson_CSharp_if.csproj", "{4D1358AA-92A8-4E1F-936E-EF0338C7190E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Method", "UnityLesson_CSharp_Method\UnityLesson_CSharp_Method.csproj", "{587AAA3D-D6CD-4EDC-AA5E-BCD7A065CCD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Method", "UnityLesson_CSharp_Method\UnityLesson_CSharp_Method.csproj", "{587AAA3D-D6CD-4EDC-AA5E-BCD7A065CCD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_ClassIncludingVariablesFunctions", "UnityLesson_ClassIncludingVariablesFunctions\UnityLesson_ClassIncludingVariablesFunctions.csproj", "{64FC4BA2-8FB6-4796-B2EA-47937D2EFED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ClassObjectInstance", "UnityLesson_CSharp_ClassObjectInstance\UnityLesson_CSharp_ClassObjectInstance.csproj", "{772B5E52-F1F7-44A3-A8F2-FBCEF5925E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_InstantiationOfObject", "UnityLesson_CSharp_InstantiationOfClass\UnityLesson_CSharp_InstantiationOfObject.csproj", "{3F2DD0B3-29D3-49C2-8E90-923104E32CF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_StaticExample", "UnityLesson_CSharp_StaticExample\UnityLesson_CSharp_StaticExample.csproj", "{58DFFB83-0B06-40B5-AD46-7D4981DEF7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_InstantiationExample1", "UnityLesson_CSharp_InstantiationExample1\UnityLesson_CSharp_InstantiationExample1.csproj", "{5228D171-82A6-4F9D-B596-E4A909D7BDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Operator", "UnityLesson_CSharp_Operator\UnityLesson_CSharp_Operator.csproj", "{4F3ACBC8-B7FF-4C4B-AC8E-DE5BE1C40B26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +51,30 @@ Global
 		{587AAA3D-D6CD-4EDC-AA5E-BCD7A065CCD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{587AAA3D-D6CD-4EDC-AA5E-BCD7A065CCD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{587AAA3D-D6CD-4EDC-AA5E-BCD7A065CCD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64FC4BA2-8FB6-4796-B2EA-47937D2EFED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FC4BA2-8FB6-4796-B2EA-47937D2EFED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FC4BA2-8FB6-4796-B2EA-47937D2EFED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FC4BA2-8FB6-4796-B2EA-47937D2EFED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{772B5E52-F1F7-44A3-A8F2-FBCEF5925E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772B5E52-F1F7-44A3-A8F2-FBCEF5925E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772B5E52-F1F7-44A3-A8F2-FBCEF5925E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772B5E52-F1F7-44A3-A8F2-FBCEF5925E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2DD0B3-29D3-49C2-8E90-923104E32CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2DD0B3-29D3-49C2-8E90-923104E32CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2DD0B3-29D3-49C2-8E90-923104E32CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2DD0B3-29D3-49C2-8E90-923104E32CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DFFB83-0B06-40B5-AD46-7D4981DEF7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DFFB83-0B06-40B5-AD46-7D4981DEF7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DFFB83-0B06-40B5-AD46-7D4981DEF7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DFFB83-0B06-40B5-AD46-7D4981DEF7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5228D171-82A6-4F9D-B596-E4A909D7BDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5228D171-82A6-4F9D-B596-E4A909D7BDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5228D171-82A6-4F9D-B596-E4A909D7BDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5228D171-82A6-4F9D-B596-E4A909D7BDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3ACBC8-B7FF-4C4B-AC8E-DE5BE1C40B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3ACBC8-B7FF-4C4B-AC8E-DE5BE1C40B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3ACBC8-B7FF-4C4B-AC8E-DE5BE1C40B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3ACBC8-B7FF-4C4B-AC8E-DE5BE1C40B26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

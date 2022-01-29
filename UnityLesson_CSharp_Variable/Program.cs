@@ -13,15 +13,15 @@ namespace UnityLesson_CSharp_Variable
     class Person
     {
         // Person 클래스의 멤버 변수(필드)
-        int     age;
+        int age = 1;
         // int : 4 byte 의 정수 
-        float   height;
+        float   height = 1;
         // float : 4 byte 의 실수
-        bool    isResting;
+        bool    isResting = true;
         // bool : 1 byte 논리
         char    genderChar;
         // char : 2 byte 문자
-        string  name;
+        string  name = "aa";
         // string : 문자갯수 * 2 byte 문자열
         // double : 8 byte 의 실수
         // long : 8 byte 의 정수

@@ -4,7 +4,7 @@ namespace UnityLesson_CSharp_Method
 {
     internal class Program
     {
-
+        string test_1;// 필드 변수 - 
 
         //반환형 함수이름(인자자료형 인자이름)
         //{
@@ -26,13 +26,17 @@ namespace UnityLesson_CSharp_Method
         }
         static bool PSARF() // 인자 (Argument)
         {
-            bool isF = false; // 지역 변수
+            bool isF = false; // 지역 변수 - 함수 내에서 정의된 변수
 
             return isF;
         }
+        public void anyting_1()
+        {
+
+        }
 
         static void Main(string[] args)
-        {
+        { 
             Console.WriteLine("Hello World!");
             PrintHelloWord();
             PrintSometing("YES"); // 매개변수(parameter)

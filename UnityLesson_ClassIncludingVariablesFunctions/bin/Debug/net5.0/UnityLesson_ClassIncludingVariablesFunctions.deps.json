@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UnityLesson_ClassIncludingVariablesFunctions/1.0.0": {
+        "runtime": {
+          "UnityLesson_ClassIncludingVariablesFunctions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnityLesson_ClassIncludingVariablesFunctions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
