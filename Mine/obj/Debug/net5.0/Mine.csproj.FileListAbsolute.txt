@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\bin\Debug\net5.0\Mine.exe
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\bin\Debug\net5.0\Mine.deps.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\bin\Debug\net5.0\Mine.runtimeconfig.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\bin\Debug\net5.0\Mine.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\bin\Debug\net5.0\Mine.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\bin\Debug\net5.0\ref\Mine.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\bin\Debug\net5.0\Mine.pdb
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\obj\Debug\net5.0\Mine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\obj\Debug\net5.0\Mine.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\obj\Debug\net5.0\Mine.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\obj\Debug\net5.0\Mine.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\obj\Debug\net5.0\Mine.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\obj\Debug\net5.0\ref\Mine.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\obj\Debug\net5.0\Mine.pdb
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\obj\Debug\net5.0\Mine.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\Mine\obj\Debug\net5.0\Mine.csproj.AssemblyReference.cache
