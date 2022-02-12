@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnityLesson_CSharp_InstantiationOfClass
+namespace UnityLesson_CSharp_InstantiationOfObject
 {
     internal class Program
     {

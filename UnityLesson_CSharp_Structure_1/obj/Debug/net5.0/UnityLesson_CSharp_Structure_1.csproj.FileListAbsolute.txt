@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\obj\Debug\net5.0\UnityLesson_CSharp_Structure_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\obj\Debug\net5.0\UnityLesson_CSharp_Structure_1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\obj\Debug\net5.0\UnityLesson_CSharp_Structure_1.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\obj\Debug\net5.0\UnityLesson_CSharp_Structure_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\bin\Debug\net5.0\UnityLesson_CSharp_Structure_1.exe
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\bin\Debug\net5.0\UnityLesson_CSharp_Structure_1.deps.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\bin\Debug\net5.0\UnityLesson_CSharp_Structure_1.runtimeconfig.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\bin\Debug\net5.0\UnityLesson_CSharp_Structure_1.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\bin\Debug\net5.0\UnityLesson_CSharp_Structure_1.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\bin\Debug\net5.0\ref\UnityLesson_CSharp_Structure_1.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\bin\Debug\net5.0\UnityLesson_CSharp_Structure_1.pdb
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\obj\Debug\net5.0\UnityLesson_CSharp_Structure_1.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\obj\Debug\net5.0\ref\UnityLesson_CSharp_Structure_1.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\obj\Debug\net5.0\UnityLesson_CSharp_Structure_1.pdb
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Structure_1\obj\Debug\net5.0\UnityLesson_CSharp_Structure_1.genruntimeconfig.cache

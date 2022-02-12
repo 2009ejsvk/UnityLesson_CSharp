@@ -55,7 +55,32 @@
       "ProjectGuid": "4d1358aa-92a8-4e1f-936e-ef0338c7190e",
       "DisplayName": "UnityLesson_CSharp_if",
       "ColorIndex": 10
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "c97925ca-d1bb-433e-b65e-549ee7176c39": {
+      "ProjectGuid": "c97925ca-d1bb-433e-b65e-549ee7176c39",
+      "DisplayName": "Mine",
+      "ColorIndex": 11
+    },
+    "3c04a259-f118-4397-8bf5-3ba727ea82c2": {
+      "ProjectGuid": "3c04a259-f118-4397-8bf5-3ba727ea82c2",
+      "DisplayName": "UnityLesson_CSharp_Array",
+      "ColorIndex": 12
+    },
+    "3e80da35-9bce-4754-9c7f-eeafdede9aaf": {
+      "ProjectGuid": "3e80da35-9bce-4754-9c7f-eeafdede9aaf",
+      "DisplayName": "UnityLesson_CSharp_ForLoop",
+      "ColorIndex": 13
+    },
+    "8700a715-75af-4bb2-8a11-694702f52499": {
+      "ProjectGuid": "8700a715-75af-4bb2-8a11-694702f52499",
+      "DisplayName": "UnityLesson_CSharp_Colletion",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 15
 }

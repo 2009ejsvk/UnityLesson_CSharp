@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\bin\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.exe
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\bin\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.deps.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\bin\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.runtimeconfig.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\bin\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\bin\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\bin\Debug\net5.0\ref\UnityLesson_CSharp_EnnumAndSwitchCase.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\bin\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.pdb
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\obj\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\obj\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\obj\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\obj\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\obj\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\obj\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\obj\Debug\net5.0\ref\UnityLesson_CSharp_EnnumAndSwitchCase.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\obj\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.pdb
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_EnnumAndSwitchCase\obj\Debug\net5.0\UnityLesson_CSharp_EnnumAndSwitchCase.genruntimeconfig.cache

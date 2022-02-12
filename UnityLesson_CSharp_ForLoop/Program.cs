@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 
 namespace UnityLesson_CSharp_ForLoop
@@ -52,7 +53,20 @@ namespace UnityLesson_CSharp_ForLoop
                 
             }
 
-            
+
+            Dictionary<string, string> _dic = new Dictionary<string, string> ();
+            _dic.Add("검사","양손대검을 사용하여 물리공격을 하는 클래스");
+            _dic.Add("마법사","지팡이를 사용하여 마법공격을 하는 클래스");
+            _dic.Add("수호자","창과 방패를 사용하여 물리공격 및 방어를 하는 클래스");
+            // _dic.Remove("검사");
+
+            bool isSwordMasterExist = _dic.ContainsKey("검사");
+            if (isSwordMasterExist)
+            {
+                string tmpValue = _dic["검사"];
+                Console.WriteLine("검사 : " + tmpValue);
+            }
+
 
 
 

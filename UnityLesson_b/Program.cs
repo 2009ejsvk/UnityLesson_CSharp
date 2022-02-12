@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace UnityLesson_b
+namespace UnityLesson_CSharp_Array
 {
     internal class Program
     {
@@ -17,20 +17,20 @@ namespace UnityLesson_b
 
             Console.WriteLine(string_array_1[0] + " / " + string_array_1[1]);
 
-            string[] string_array = {"1","2"};
+            string[] string_array = { "1", "2" };
             Console.WriteLine(string_array[0] + " / " + string_array[1]);
 
-            int[] int_array = {1,2};
+            int[] int_array = { 1, 2 };
             Console.WriteLine(int_array[0] + " / " + int_array[1]);
 
             var myTable = new Dictionary<string, string>();
-            myTable.Add("0","첫번째 값");
-            myTable.Add("1","두번째 값");
-            myTable.Add("2","세번째 값");
-            myTable.Add("3","네번째 값");
-            myTable.Add("4","다섯번째 값");
+            myTable.Add("0", "첫번째 값");
+            myTable.Add("1", "두번째 값");
+            myTable.Add("2", "세번째 값");
+            myTable.Add("3", "네번째 값");
+            myTable.Add("4", "다섯번째 값");
             Console.WriteLine(myTable["1"]);
-             
+
             foreach (KeyValuePair<string, string> kv in myTable)
             {
                 Console.WriteLine("Key: {0}, Value: {1}", kv.Key, kv.Value);
