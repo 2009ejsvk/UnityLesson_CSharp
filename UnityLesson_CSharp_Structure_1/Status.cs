@@ -6,4 +6,6 @@
     public int _WIS;
     public int _INT;
     public int _REG;
+
+
 }

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\bin\Debug\net5.0\UnityLesson_CSharp_Program.exe
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\bin\Debug\net5.0\UnityLesson_CSharp_Program.deps.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\bin\Debug\net5.0\UnityLesson_CSharp_Program.runtimeconfig.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\bin\Debug\net5.0\UnityLesson_CSharp_Program.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\bin\Debug\net5.0\UnityLesson_CSharp_Program.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\bin\Debug\net5.0\ref\UnityLesson_CSharp_Program.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\bin\Debug\net5.0\UnityLesson_CSharp_Program.pdb
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\obj\Debug\net5.0\UnityLesson_CSharp_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\obj\Debug\net5.0\UnityLesson_CSharp_Program.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\obj\Debug\net5.0\UnityLesson_CSharp_Program.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\obj\Debug\net5.0\UnityLesson_CSharp_Program.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\obj\Debug\net5.0\UnityLesson_CSharp_Program.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\obj\Debug\net5.0\ref\UnityLesson_CSharp_Program.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\obj\Debug\net5.0\UnityLesson_CSharp_Program.pdb
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_Program\obj\Debug\net5.0\UnityLesson_CSharp_Program.genruntimeconfig.cache
