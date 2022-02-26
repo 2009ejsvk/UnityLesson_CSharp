@@ -110,7 +110,22 @@
       "ProjectGuid": "e394807a-2b45-48b6-ab32-2cc2a0624d31",
       "DisplayName": "UnityLesson_CSharp_hores",
       "ColorIndex": 4
+    },
+    "233017f7-a837-488a-9b4f-f42e088ad472": {
+      "ProjectGuid": "233017f7-a837-488a-9b4f-f42e088ad472",
+      "DisplayName": "hores",
+      "ColorIndex": 5
+    },
+    "a13f8992-e24b-42b6-869d-483f0553b8b9": {
+      "ProjectGuid": "a13f8992-e24b-42b6-869d-483f0553b8b9",
+      "DisplayName": "UnityLesson_CSharp_dice",
+      "ColorIndex": 6
+    },
+    "86e7e440-e4ee-46a0-9c2c-70466c53b668": {
+      "ProjectGuid": "86e7e440-e4ee-46a0-9c2c-70466c53b668",
+      "DisplayName": "dice",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }

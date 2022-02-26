@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\bin\Debug\net5.0\UnityLesson_CSharp_dice.exe
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\bin\Debug\net5.0\UnityLesson_CSharp_dice.deps.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\bin\Debug\net5.0\UnityLesson_CSharp_dice.runtimeconfig.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\bin\Debug\net5.0\UnityLesson_CSharp_dice.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\bin\Debug\net5.0\UnityLesson_CSharp_dice.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\bin\Debug\net5.0\ref\UnityLesson_CSharp_dice.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\bin\Debug\net5.0\UnityLesson_CSharp_dice.pdb
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\obj\Debug\net5.0\UnityLesson_CSharp_dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\obj\Debug\net5.0\UnityLesson_CSharp_dice.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\obj\Debug\net5.0\UnityLesson_CSharp_dice.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\obj\Debug\net5.0\UnityLesson_CSharp_dice.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\obj\Debug\net5.0\UnityLesson_CSharp_dice.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\obj\Debug\net5.0\ref\UnityLesson_CSharp_dice.dll
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\obj\Debug\net5.0\UnityLesson_CSharp_dice.pdb
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\obj\Debug\net5.0\UnityLesson_CSharp_dice.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_dice\obj\Debug\net5.0\UnityLesson_CSharp_dice.csproj.AssemblyReference.cache

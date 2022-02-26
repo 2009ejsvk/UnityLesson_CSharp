@@ -13,3 +13,4 @@ C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_hores\obj
 C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_hores\obj\Debug\net5.0\ref\UnityLesson_CSharp_hores.dll
 C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_hores\obj\Debug\net5.0\UnityLesson_CSharp_hores.pdb
 C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_hores\obj\Debug\net5.0\UnityLesson_CSharp_hores.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub_1\UnityLesson_CSharp\UnityLesson_CSharp_hores\obj\Debug\net5.0\UnityLesson_CSharp_hores.csproj.AssemblyReference.cache

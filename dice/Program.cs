@@ -43,7 +43,7 @@ namespace dice
                 Console.WriteLine("주사위 갯수 : " + dice_cnt);
                 Console.WriteLine("샛별 갯수 : " + star_cnt);
                 Console.WriteLine();
-
+                
                 board_img.board_img_print();
 
                 if (dice_cnt == 0)
@@ -52,6 +52,8 @@ namespace dice
                     Console.WriteLine("총 모은 샛별 갯수는 " + star_cnt + " 개 입니다 !");
                     break;
                 }
+
+
             }
 
         }
