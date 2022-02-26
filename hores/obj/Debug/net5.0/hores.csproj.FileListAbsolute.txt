@@ -1,0 +1,16 @@
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\bin\Debug\net5.0\hores.exe
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\bin\Debug\net5.0\hores.deps.json
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\bin\Debug\net5.0\hores.runtimeconfig.json
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\bin\Debug\net5.0\hores.runtimeconfig.dev.json
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\bin\Debug\net5.0\hores.dll
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\bin\Debug\net5.0\hores.pdb
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\obj\Debug\net5.0\hores.csproj.AssemblyReference.cache
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\obj\Debug\net5.0\hores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\obj\Debug\net5.0\hores.AssemblyInfoInputs.cache
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\obj\Debug\net5.0\hores.AssemblyInfo.cs
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\obj\Debug\net5.0\hores.csproj.CoreCompileInputs.cache
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\obj\Debug\net5.0\hores.dll
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\obj\Debug\net5.0\refint\hores.dll
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\obj\Debug\net5.0\hores.pdb
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\obj\Debug\net5.0\hores.genruntimeconfig.cache
+C:\Users\2009e\Documents\GitHub\UnityLesson_CSharp\hores\obj\Debug\net5.0\ref\hores.dll
